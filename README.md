@@ -31,23 +31,6 @@ We recommend to install [Anaconda](https://www.continuum.io/downloads), a pre-pa
 
 The code is provided in the `Amazon Fine Food Reviews.ipynb` notebook file. You also need the `Reviews.csv` dataset file to run the Notebook. The dataset can be found [here](https://www.kaggle.com/snap/amazon-fine-food-reviews) on Kaggle.
 
-### Run
-
-To quickly train the model, we highly recommend to run the Notebook with GPUs using FloydHub](https://www.floydhub.com) or AWS or another platform.
-
-If you don't have access to GPUs, you can always run this Notebook on your local machine but it might take 6/8 hours to train the model.
-
-In a terminal or command window, navigate to the top-level project directory `Amazone_fine_food/` (that contains this README) and run one of the following commands:
-
-```bash
-ipython notebook Amazon\ Fine\ Food\ Reviews.ipynb
-```  
-or
-```bash
-jupyter notebook Amazon\ Fine\ Food\ Reviews.ipynb
-```
-
-This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
