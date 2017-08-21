@@ -1,4 +1,4 @@
-# Project: Amazon Fine Food Reviews Sentiment Analysis with Recurrent Neural Network
+# Amazon Fine Food Reviews Sentiment Analysis with Recurrent Neural Network
 
 
 ### Project Overview
