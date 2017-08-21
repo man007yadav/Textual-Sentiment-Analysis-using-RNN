@@ -9,9 +9,6 @@ Several algorithms like Naive Bayes, Support Vector Machine and Maximum Entropy 
 
 For this project, we will perform sentiment analysis on the [Amazon Fine Food Review](https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset from Kaggle.
 
-### Analysis
-You can find the final project report [here](https://github.com/man007yadav/RNN-Amazon-Fine-Food-Reviews/blob/master/Report/Fine_Food_Review_Sentiment_Analysis_Report.md) and also the [final Jupyter Notebook](https://github.com/man007yadav/RNN-Amazon-Fine-Food-Reviews/blob/master/Amazon%20Fine%20Food%20Reviews.ipynb).
-
 ### Install
 
 This project requires **Python 3.5** and the following Python libraries installed:
